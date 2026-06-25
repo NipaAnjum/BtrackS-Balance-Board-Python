@@ -1,0 +1,12 @@
+# Python dependencies for the BTrackS standalone logger + visualizer.
+# Compatible with Python 3.10, 3.11, 3.12, 3.13.
+#
+# Install with:
+#     pip install -r requirements.txt
+#
+# In addition to these, you must install the Phidget22 WINDOWS DRIVER
+# from phidgets.com (system installer, NOT pip). See README.md for the
+# download link.
+
+Phidget22      # Phidget22 Python bindings (used by both scripts)
+matplotlib     # live dashboard plotting
