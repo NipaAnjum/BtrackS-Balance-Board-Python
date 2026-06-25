@@ -1,4 +1,5 @@
-<img width="1050" height="650" alt="image" src="https://github.com/user-attachments/assets/ea308767-1ae9-429a-9091-cd2f47a28ecf" />
+<img width="1050" height="650" alt="image" src="https://github.com/user-attachments/assets/e35580bc-5b1c-4049-9bc7-a90ab2ae46f1" />
+
 
 # BTrackS Balance Board — Python Logger & Visualizer
 
